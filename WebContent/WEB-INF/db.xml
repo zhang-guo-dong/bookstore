@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<db>
+    <host>192.168.91.129</host>
+    <port>1521</port>
+    <sid>orcl</sid>
+    <username>bookstore</username>
+    <password>123456</password>
+    </db>
